@@ -1,0 +1,39 @@
+{
+  "code": 0
+  ,"msg": ""
+  ,"count": 66
+  ,"data": [{
+    "username": "工商"
+    ,"servername": "注册注销"
+    ,"province": "山东"
+    ,"city": "济南"
+    ,"zone": "市中"
+    ,"street": "西溪街道"
+    ,"address": "西溪花园"
+    ,"house": "30栋1单元"
+    ,"tel": "0531-6542585"
+    ,"amount1": "公司设立注销"
+  }, {
+    "username": "税务"
+    ,"servername": "报税"
+    ,"province": "山东"
+    ,"city": "济南"
+    ,"zone": "历下"
+    ,"street": "丝绸路"
+    ,"address": "天墅之城"
+    ,"house": "9幢2单元"
+    ,"tel": "0531-6542585"
+    ,"tel": "报税问题咨询"
+  }, {
+    "username": "工商"
+    ,"servername": "行政许可"
+    ,"province": "山东"
+    ,"city": "济南"
+    ,"zone": "莱芜"
+    ,"street": "艾溪湖办事处"
+    ,"address": "中兴和园"
+    ,"house": "1幢3单元"
+    ,"tel": "0531-6542585"
+    ,"tel": "行政许可相关咨询"
+  }]
+}  
